@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="MOANA 2" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/846a9086-8a40-43e0-aa10-2fc7d6d73730/dia1wc9-19d6eb53-580d-4f70-84c2-7d2d3f73d105.png/v1/fill/w_1280,h_415/moana_2__2024__logo_png__by_mintmovi3_dia1wc9-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDE1IiwicGF0aCI6IlwvZlwvODQ2YTkwODYtOGE0MC00M2UwLWFhMTAtMmZjN2Q2ZDczNzMwXC9kaWExd2M5LTE5ZDZlYjUzLTU4MGQtNGY3MC04NGMyLTdkMmQzZjczZDEwNS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.EG8cmFeGnXYv12UbEfC62RrK2014wx6qYVoeaeNlb0U" group-title="2024", Moana2
+#EXTINF:-1 tvg-name="MOANA 2" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/garland_intl_teaser2_poster_brazil_c487c296.jpeg" group-title="2024", Moana2
 http://xvideos.tlonp.in:80/movie/42723742/91617273/395565.mp4
